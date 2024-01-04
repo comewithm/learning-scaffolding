@@ -28,6 +28,7 @@
     "inquirer": "^9.2.12",
     "isbinaryfile": "^5.0.0",
     "ora": "^7.0.1",
-    "userhome": "^1.0.0"
+    "userhome": "^1.0.0",
+    "vue-codemod": "^0.0.5"
   }
 }
